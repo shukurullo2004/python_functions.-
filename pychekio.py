@@ -26,7 +26,7 @@ def words_order(text: str, words: list) -> bool:
 
     return True
 
-print("Example:")
+print("Example: ")
 print(words_order("hi world im here", ["world", "here"]))
 
 # These "asserts" are used for self-checking
